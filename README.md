@@ -1,7 +1,7 @@
 ## QU YUANPENGの成果リスト（全ては筆頭著者・査読付き）
 
 1. Y. Qu and H. Nobuhara: Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation. In Proceedings of 
-the 48th International ACMSIGIR Conference on Research and Development in Information Retrieval `(SIGIR 2025 Accepted / Core ranking A*)`.
+the 48th International ACMSIGIR Conference on Research and Development in Information Retrieval `(SIGIR 2025 Accepted / Core ranking A*)`[arXiv](https://arxiv.org/pdf/2504.16077).
 
 3. Y. Qu and H. Nobuhara: Intent Representation Learning for Sequential Recommendation via Latent Guided Diffusion. 31st 
 International Conference on Neural Information Processing `(ICONIP 2024)`, Auckland, New Zealand, December 2-6, 2024.
