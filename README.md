@@ -1,18 +1,13 @@
 ## QU YUANPENGの成果リスト（全ては筆頭著者・査読付き）
 
-1. Y. Qu and H. Nobuhara: Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation. In Proceedings of 
-the 48th International ACMSIGIR Conference on Research and Development in Information Retrieval `(SIGIR 2025 / Core ranking A*)`[arXiv](https://arxiv.org/pdf/2504.16077). DOI: [10.1145/3726302.3730010]
+1. Y. Qu and H. Nobuhara: Vector Quantized Intent Contrastive Learning for Sequential Recommendation. In the 51st IEEE International Conference on Acoustics, Speech, and Signal Processing `(ICASSP 2026)`, Barcelona, Spain, May 4-8, 2026. `[Accepted]`
 
-2. Y. Qu and H. Nobuhara: Intent Representation Learning for Sequential Recommendation via Latent Guided Diffusion. 31st 
-International Conference on Neural Information Processing `(ICONIP 2024)`, Auckland, New Zealand, December 2-6, 2024. DOI: [10.1007/978-981-96-6957-8_8]
+1. Y. Qu and H. Nobuhara: Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation. In Proceedings of the 48th International ACMSIGIR Conference on Research and Development in Information Retrieval `(SIGIR 2025 / Core ranking A*)`, pp. 1552–1561, Padua, Italy, July 13–18, 2025. [arXiv](https://arxiv.org/pdf/2504.16077). DOI: [10.1145/3726302.3730010]
 
-3. Y. Qu and H. Nobuhara, "Generating Explanations for Explainable Recommendations Using Filter-Enhanced Time-Series 
-Information," in `IEEE Access`, vol. 12, pp. 78480-78495, 2024. DOI: [10.1109/ACCESS.2024.3408252]
+2. Y. Qu and H. Nobuhara: Intent Representation Learning for Sequential Recommendation via Latent Guided Diffusion. In the 31st International Conference on Neural Information Processing `(ICONIP 2024)`, Auckland, New Zealand, December 2-6, 2024. DOI: [10.1007/978-981-96-6957-8_8]
 
-4. Y. Qu and H. Nobuhara: Explanation Generated for Sequential Recommendation Based on Transformer Model. Joint 12th 
-International Conference on Soft Computing and Intelligent Systems and 23rd International Symposium on Advanced Intelligent 
-Systems `(SCIS&ISIS 2022)`, Ise-Shima, Mie, Japan, Nov. 29 - Dec. 2, 2022. 「Best Student Presentation Award」DOI: [10.1109/SCISISIS55246.2022.10002066] 
+3. Y. Qu and H. Nobuhara, "Generating Explanations for Explainable Recommendations Using Filter-Enhanced Time-Series Information," in `IEEE Access`, vol. 12, pp. 78480-78495, 2024. DOI: [10.1109/ACCESS.2024.3408252]
 
-## 査読中
+4. Y. Qu and H. Nobuhara: Explanation Generated for Sequential Recommendation Based on Transformer Model. Joint 12th International Conference on Soft Computing and Intelligent Systems and 23rd International Symposium on Advanced Intelligent Systems `(SCIS&ISIS 2022)`, pp. 1-6, Ise, Japan, November 29 - December 2, 2022. `「Best Student Presentation Award」`DOI: [10.1109/SCISISIS55246.2022.10002066] 
 
-1. Y. Qu and H. Nobuhara: Vector Quantized Intent Contrastive Learning for Sequential Recommendation. 
+
